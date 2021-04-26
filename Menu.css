@@ -1,0 +1,38 @@
+header{
+    background-color: pink;
+    font-family: cursive;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+nav ul li{
+    display: block;
+    align-items: center;
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: pink;
+}
+
+
+#Inicio{
+    width: 100px;
+
+}
+
+#Recetas{
+    width: 100px;
+
+    
+}
+
+#About{
+    width: 150px;
+
+}
+
+
+

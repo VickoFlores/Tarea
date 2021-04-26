@@ -1,0 +1,167 @@
+main{
+    width: 70%;
+    background-color: thistle;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+
+#R1{
+    background-color: rgb(255, 132, 255);
+    border: 6px dotted rgb(253, 248, 252);
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+    justify-items: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+#R1 img{
+    width: 100%;
+    margin: auto;
+}
+
+#R1 h3{
+    text-align: center;
+    background-color:rgb(247, 105, 223);
+    margin: none;
+    margin: 0px;
+    padding-top: 3px;
+}
+
+#R1 h4{
+    color: white;
+    font-family: cursive;
+    font-size: 10px;
+    text-align: right;
+    margin: 0px;
+    background-color: rgb(247, 105, 223);
+    display: none;
+}
+
+#R1 p{
+    display: none;
+    font-size: 15px;
+    text-align: left;
+}
+
+
+#R2{
+    background-color: rgb(255, 132, 255);
+    border: 6px dotted rgb(253, 248, 252);
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+    width: 40%;
+    padding: 3px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 5px;
+}
+
+#R2 img{
+    width: 100%;
+    margin: auto;
+}
+
+#R2 h3{
+    text-align: center;
+    background-color:rgb(247, 105, 223);
+    margin: none;
+    margin: 0px;
+    padding-top: 3px;
+}
+
+#R2 h4{
+    color: white;
+    font-family: cursive;
+    font-size: 10px;
+    text-align: right;
+    margin: 0px;
+    background-color: rgb(247, 105, 223);
+    display: none;
+}
+
+#R2 p{
+    display: none;
+    font-size: 15px;
+    text-align: left;
+}
+
+
+
+#R3{
+    background-color: rgb(255, 132, 255);
+    border: 6px dotted rgb(253, 248, 252);
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+    width: 40%;
+    padding: 3px;
+    box-sizing: border-box;
+    justify-items: right;
+    margin: auto;
+    margin-top: 5px;
+}
+
+#R3 img{
+    width: 100%;
+    margin: auto;
+}
+
+#R3 h3{
+    text-align: center;
+    background-color:rgb(247, 105, 223);
+    margin: none;
+    margin: 0px;
+    padding-top: 3px;
+}
+
+#R3 h4{
+    color: white;
+    font-family: cursive;
+    font-size: 10px;
+    text-align: right;
+    margin: auto;
+    background-color: rgb(247, 105, 223);
+    display: none;
+}
+
+#R3 p{
+    display: none;
+    font-size: 15px;
+    text-align: left;
+}
+
+
+
+aside{
+    background-color: thistle;
+    font-family: cursive;
+    color: white;
+    width: 30%;
+    margin: auto;
+
+}
+
+aside h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+footer{
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    font-family: cursive;
+    color: white;
+    text-align: center;
+}
